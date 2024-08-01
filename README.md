@@ -5,3 +5,4 @@
 **Description:** Build a simple chat app where users can join different rooms and send messages.  
 **Technologies:** HTML, CSS, JavaScript, WebSocket 
 **What You Learn**: Real-time communication, event-driven programming.
+Use Port: 3000
